@@ -1,1 +1,1 @@
-# THIS IS A Loan Approval System 
+# This is A Loan Approval System. 
